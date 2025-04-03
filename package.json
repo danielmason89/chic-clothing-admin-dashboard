@@ -15,7 +15,7 @@
     "react-router-dom": "^6.28.2",
     "react-scripts": "5.0.1",
     "recharts": "^2.15.1",
-    "styled-components": "^5.3.5",
+    "styled-components": "^6.1.15",
     "styled-normalize": "^8.0.7",
     "web-vitals": "^2.1.4"
   },
